@@ -12,6 +12,9 @@ For our purposes, an `Author` has many `Article`s, a `Magazine` has many
 **Note**: You should draw your domain on paper or on a whiteboard _before you
 start coding_. Remember to identify a single source of truth for your data.
 
+## VIDEO LINK FOR THE TEST
+https://youtu.be/ec8FXoLTezg?feature=shared
+
 ## Instructions
 
 To get started, run `pipenv install` while inside of this directory. Then run
